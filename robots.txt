@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.gljshx.com/sitemap.xml
